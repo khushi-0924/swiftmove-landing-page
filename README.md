@@ -3,7 +3,7 @@
 A responsive service landing page for a Packers and Movers company built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-[View Live Site](https://yourusername.github.io/swiftmove-landing-page)
+[View Live Site](https://github.com/khushi-0924/swiftmove-landing-page)
 
 ## Features
 - Responsive design (mobile, tablet, desktop)
